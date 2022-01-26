@@ -1,0 +1,14 @@
+spotipy==2.19.0
+lyricsgenius==3.0.1
+pandas=1.1.3
+re
+numpy==1.19.2
+langdetect==0.35.1
+nltk==3.5
+collections
+pickle
+wordcloud==1.8.1
+PIL
+tkinter
+matplotlib==3.3.2
+operator
